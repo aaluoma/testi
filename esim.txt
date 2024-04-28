@@ -1,0 +1,5 @@
+kandista puuttuu:
+- johdannon fix
+- teoriaosuus loppuun
+- karsinta
+- päätelmät
